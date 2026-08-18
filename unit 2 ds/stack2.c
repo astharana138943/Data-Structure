@@ -1,4 +1,4 @@
-//Aastha Rana
+//Aastha Rana 92500588014
 //write a program to find out factorial of number using stack
 
 
