@@ -1,5 +1,5 @@
 //Aastha Rana 92500588014
-//write a program
+//write a program of dynamic stack
 
 
 #include <stdio.h>
