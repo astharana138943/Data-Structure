@@ -1,5 +1,5 @@
 //write a program of dynamic queue
-//Aastha Rana
+//Aastha Rana 92500588014
 
 #include <stdio.h>
 #include <stdlib.h>
