@@ -1,6 +1,6 @@
 //Aastha Rana
 //92500588014
-//
+//write a tower of hanoi program
 
 #include<stdio.h>
 
